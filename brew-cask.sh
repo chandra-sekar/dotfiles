@@ -8,7 +8,7 @@ brew cask install tyke
 brew cask install appcleaner
 brew cask install cheatsheet
 brew cask install freedom
-brew cask install f.lux
+brew cask install flux
 
 #Media
 brew cask install audacity
