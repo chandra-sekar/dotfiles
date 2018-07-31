@@ -28,7 +28,7 @@ brew cask install google-chrome
 brew cask install postman
 brew cask install sequel-pro
 brew cask install mamp
-brew cask install github-desktop
+brew cask install github
 brew cask install sublime-text
 brew cask install imageoptim
 
