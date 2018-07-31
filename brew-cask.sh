@@ -35,7 +35,7 @@ brew cask install imageoptim
 #Conference calls & Messaging
 brew cask install skype
 brew cask install ringcentral
-brew cask install zoom.us
+brew cask install zoomus
 brew cask install slack
 brew cask install telegram
 brew cask install colloquy
