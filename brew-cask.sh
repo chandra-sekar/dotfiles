@@ -11,7 +11,6 @@ brew cask install freedom
 brew cask install flux
 
 #Media
-brew cask install audacity
 brew cask install spotify
 brew cask install vlc
 brew cask install caption
