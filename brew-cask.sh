@@ -14,7 +14,7 @@ brew cask install flux
 brew cask install spotify
 brew cask install vlc
 brew cask install caption
-brew cask install plex-server
+brew cask install plex-media-server
 brew cask install transmission
 brew cask install soulseek
 brew cask install handbrake
